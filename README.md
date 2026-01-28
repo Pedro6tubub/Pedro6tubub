@@ -1,4 +1,4 @@
-👋 Olá! Eu sou o Pedro Vinicius
+👋 Olá! Eu sou Pedro Vinicius
 
 💻 Estudante de Tecnologia da Informação  
 🚀 Em formação como Desenvolvedor Full Stack  
